@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Mo Li is a pre-PhD candidate jointly at **Tsinghua University** and **Shanghai AI Laboratory**. His interests focus on AI technologies and natural sciences to help in understanding the universe.
+
 <!--
 **DseidLi/DseidLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
